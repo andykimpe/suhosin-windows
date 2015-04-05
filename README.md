@@ -6,7 +6,7 @@ Suhosin Extension for windows
 
 if you do not want to bother compiling suhosin
 
-you can download the file to the php_suhosin.dll <a href="https://github.com/andykimpe/suhosin-windows/tree/master/binary"> binary file </a> 
+you can download the file to the php_suhosin.dll binary file
 
 SEVERAL file you find the one you should choose
 
