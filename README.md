@@ -18,11 +18,15 @@ I invite you to follow the directions on this page http://wiki.php.net/internals
 
 Note that you should replace the configure command by the latter
 
+for ts version
+
 configure --disable-all --enable-cli --enable-session --enable-zlib --enable-suhosin="shared"
 
 
+for nts
 
 
+configure --disable-all --disable-zts --enable-cli --enable-session --enable-zlib --enable-suhosin="shared"
 
 
 
